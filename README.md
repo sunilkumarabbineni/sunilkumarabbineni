@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunilkumarabbineni
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Full Stack Web development
-- 💞️ I’m looking to collaborate on Single page Web Applications
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on Cloud-Native Applications
 - 📫 How to reach me 
      mail : sunilkumar.abbineni@gmail.com
      mobile: +91 8985806479
